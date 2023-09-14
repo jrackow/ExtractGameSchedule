@@ -1,0 +1,4 @@
+selenium
+icalendar
+pytz
+customtkinter
