@@ -2,3 +2,6 @@ selenium
 icalendar
 pytz
 customtkinter
+requests
+beautifulsoup4
+pyinstaller
